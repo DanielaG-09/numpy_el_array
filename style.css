@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    margin: 0%;
+    height: 100vh;
+    background-color: #474343;
+    color: rgb(144, 174, 238);
+}
+
+h1 {
+    color: #89e491;
+}
+
+h2 {
+    color: #555;
+}
+
+a {
+    color: #e1e5e9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+div{
+    max-width: 10000px;
+}
